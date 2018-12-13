@@ -49,7 +49,7 @@ Masuk ke portal Mission :
 ![screenshot_16](https://user-images.githubusercontent.com/43244821/49915477-6b2fa900-fec8-11e8-8d87-19433322955b.jpg)
 
 Login :
-![screenshot_17](https://user-images.githubusercontent.com/43244821/49915612-0cb6fa80-fec9-11e8-8e33-a7f951a1a394.jpg
+![screenshot_17](https://user-images.githubusercontent.com/43244821/49915612-0cb6fa80-fec9-11e8-8e33-a7f951a1a394.jpg)
 
 ![screenshot_18](https://user-images.githubusercontent.com/43244821/49915634-22c4bb00-fec9-11e8-92c1-965c6421fcc1.jpg)
 
