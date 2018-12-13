@@ -3,3 +3,4 @@ Infrastructure as Code adalah proses penyediaan IT infrastruktur dimana sistem d
 
 Dengan menggunakan kode dan meng-automasi, proses setting dan konfigurasi baremetal, virtual mesin, cloud computing baik itu instalasi baru, perubahan konfigurasi dapat dilakukan secara cepat, mudah, dan berulang. Di sisi lain juga, ada manfaat lainnya yaitu dokumentasi. Jadi siapapun tahu konfigurasi server, kebutuhan aplikasi server dan sebagainya.
 
+Disni, saya mengaplikasikan IAC dengan menggunakan Salstack
