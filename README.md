@@ -7,7 +7,7 @@ Disni, saya mengaplikasikan IAC dengan menggunakan CFEngine. Dengan menggunakan 
 
 ![2000px-cfengine-logo svg_](https://user-images.githubusercontent.com/43244821/49914697-e55e2e80-fec4-11e8-883c-766b67515db8.png)
 
-CFEngine adalah sistem manajemen konfigurasi yang menyediakan framework untuk pengelolaan infrastruktur IT secara otomatis. CFEngine terdesentralisasi dan sangat skalabel. CFEngine merupakan open source yang cukup populer, fungsi utamanya adalah untuk menyediakan konfigurasi otomatis terhadap sistem komputer dengan skala besar, termasuk manajemen terpadu dari server, desktop, embedded networkod devices, smartphone, serta komputer tablet.
+CFEngine adalah sistem manajemen konfigurasi yang menyediakan framework untuk pengelolaan infrastruktur IT secara otomatis. Merupakan salah satu alat IaC tertua, dengan rilisan awal pada tahun 1993. CFEngine terdesentralisasi dan sangat skalabel. CFEngine merupakan open source yang cukup populer, fungsi utamanya adalah untuk menyediakan konfigurasi otomatis terhadap sistem komputer dengan skala besar, termasuk manajemen terpadu dari server, desktop, embedded networkod devices, smartphone, serta komputer tablet.
 
 ## Fitur CFEngine 
 1. Menentukan konfigurasi dari keseluruhan sistem, termasuk: Perangkat, Pengguna, Aplikasi, dan Layanan.
