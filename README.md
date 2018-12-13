@@ -4,6 +4,7 @@ Infrastructure as Code adalah proses penyediaan IT infrastruktur dimana sistem d
 Dengan menggunakan kode dan meng-automasi, proses setting dan konfigurasi baremetal, virtual mesin, cloud computing baik itu instalasi baru, perubahan konfigurasi dapat dilakukan secara cepat, mudah, dan berulang. Di sisi lain juga, ada manfaat lainnya yaitu dokumentasi. Jadi siapapun tahu konfigurasi server, kebutuhan aplikasi server dan sebagainya.
 
 Disni, saya mengaplikasikan IAC dengan menggunakan CFEngine
+
 ![2000px-cfengine-logo svg_](https://user-images.githubusercontent.com/43244821/49914697-e55e2e80-fec4-11e8-883c-766b67515db8.png)
 
 CFEngine adalah sistem manajemen konfigurasi yang menyediakan framework untuk pengelolaan infrastruktur IT secara otomatis. CFEngine terdesentralisasi dan sangat skalabel. 
@@ -46,11 +47,13 @@ Dalam beberapa menit ke depan, hub akan mengumpulkan laporan dari kebijakan sebe
 ## Log in to Mission Portal
 Masuk ke portal Mission :
 ![screenshot_16](https://user-images.githubusercontent.com/43244821/49915477-6b2fa900-fec8-11e8-8d87-19433322955b.jpg)
- Login :
-![screenshot_17](https://user-images.githubusercontent.com/43244821/49915612-0cb6fa80-fec9-11e8-8e33-a7f951a1a394.jpg)
+
+Login :
+![screenshot_17](https://user-images.githubusercontent.com/43244821/49915612-0cb6fa80-fec9-11e8-8e33-a7f951a1a394.jpg
+
 ![screenshot_18](https://user-images.githubusercontent.com/43244821/49915634-22c4bb00-fec9-11e8-92c1-965c6421fcc1.jpg)
 
-
+Demikian penjelasan dari penggunaan CFEngine sebagai IaC. apabila ada kesalahan saya mohon maaf dan mohon kritik dan sarannya. Terimakasih :) 
 
 
 
