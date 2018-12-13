@@ -53,6 +53,9 @@ Login :
 
 ![screenshot_18](https://user-images.githubusercontent.com/43244821/49915634-22c4bb00-fec9-11e8-92c1-965c6421fcc1.jpg)
 
+![screenshot_19](https://user-images.githubusercontent.com/43244821/49916235-84d2ef80-fecc-11e8-90a6-05818a5c110e.jpg)
+
+
 Demikian penjelasan dari penggunaan CFEngine sebagai IaC. apabila ada kesalahan saya mohon maaf dan mohon kritik dan sarannya. Terimakasih :) 
 
 
