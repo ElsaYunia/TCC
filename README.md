@@ -3,7 +3,7 @@ Infrastructure as Code adalah proses penyediaan IT infrastruktur dimana sistem d
 
 Dengan menggunakan kode dan meng-automasi, proses setting dan konfigurasi baremetal, virtual mesin, cloud computing baik itu instalasi baru, perubahan konfigurasi dapat dilakukan secara cepat, mudah, dan berulang. Di sisi lain juga, ada manfaat lainnya yaitu dokumentasi. Jadi siapapun tahu konfigurasi server, kebutuhan aplikasi server dan sebagainya.
 
-Disni, saya mengaplikasikan IAC dengan menggunakan CFEngine
+Disni, saya mengaplikasikan IAC dengan menggunakan CFEngine. Dengan menggunakan katacoda :) hehe
 
 ![2000px-cfengine-logo svg_](https://user-images.githubusercontent.com/43244821/49914697-e55e2e80-fec4-11e8-883c-766b67515db8.png)
 
